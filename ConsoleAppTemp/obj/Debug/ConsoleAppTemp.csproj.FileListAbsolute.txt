@@ -1,0 +1,7 @@
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\bin\Debug\ConsoleAppTemp.exe.config
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\bin\Debug\ConsoleAppTemp.exe
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\bin\Debug\ConsoleAppTemp.pdb
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\obj\Debug\ConsoleAppTemp.csprojAssemblyReference.cache
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\obj\Debug\ConsoleAppTemp.csproj.CoreCompileInputs.cache
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\obj\Debug\ConsoleAppTemp.exe
+C:\Users\Киви\Documents\Visual Studio 2017\Projects\ConsoleAppTemp\ConsoleAppTemp\obj\Debug\ConsoleAppTemp.pdb
